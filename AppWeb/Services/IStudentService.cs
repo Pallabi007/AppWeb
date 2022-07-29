@@ -13,7 +13,5 @@ namespace AppWeb.Services
         Student Create(Student student);
         void Update(string id, Student student);
         void Remove(string id);
-
-
     }
 }
